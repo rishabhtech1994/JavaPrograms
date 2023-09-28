@@ -37,7 +37,20 @@
       <recent name="C:\Users\risha\IdeaProjects\JavaProgramsGit" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GenericClass">
+    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.GenericClass" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classexample.Main" />
       <module name="JavaPrograms" />
@@ -66,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericClass" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
