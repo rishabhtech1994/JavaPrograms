@@ -1,4 +1,4 @@
-package designpattern.factory;
+package designpattern.creational.factory;
 
 public class ShapeFactoryImpl implements IShapeFactory{
     @Override

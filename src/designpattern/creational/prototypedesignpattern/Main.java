@@ -1,6 +1,4 @@
-package designpattern.prototypedesignpattern;
-
-import javax.xml.crypto.Data;
+package designpattern.creational.prototypedesignpattern;
 
 public class Main {
 

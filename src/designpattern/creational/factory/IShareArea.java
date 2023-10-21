@@ -1,6 +1,4 @@
-package designpattern.factory;
-
-import java.nio.DoubleBuffer;
+package designpattern.creational.factory;
 
 interface  IShareArea {
      // Get the area of the shape

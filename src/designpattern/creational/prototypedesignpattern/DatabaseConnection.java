@@ -1,4 +1,4 @@
-package designpattern.prototypedesignpattern;
+package designpattern.creational.prototypedesignpattern;
 
 public class DatabaseConnection implements Cloneable{
     public String databasePort;
